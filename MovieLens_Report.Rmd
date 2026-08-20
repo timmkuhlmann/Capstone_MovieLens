@@ -1,5 +1,5 @@
 ---
-title: "Movielens_Capstone"
+title: "MovieLens Recommendation System"
 author: "Timm Kuhlmann"
 date: "2026-08-05"
 output:
@@ -30,3 +30,43 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Introduction
+
+This report presents the development of a movie recommendation system using the MovieLens 10M dataset.
+
+Ergebnis:blablabla
+
+# Kapitel
+## Unterkapitel
+### Abschnitt
+- Punkt 1
+- Punkt 2
+- Punkt 3
+
+
+# 1. Introduction
+## Project Objective
+## Dataset Overview
+
+# 2. Exploratory Data Analysis
+## Dataset Structure
+## Rating Distribution
+## User Activity
+## Movie Popularity
+
+# 3. Methodology
+##   3.1 Baseline Model
+##   3.2 Movie Effect
+##   3.3 User Effect
+##   3.4 Regularization
+##   3.5 Extended Model
+
+# 4. Results
+## RMSE Comparison
+## Final Model Performance
+
+# 5. Conclusion
+## Key Findings
+## Limitations
+## Future Work

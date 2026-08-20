@@ -1,0 +1,17 @@
+# RStudio / R Sitzungsdateien
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+.Ruserdata
+
+# Rohdaten
+ml-10M100K/
+ml-10M100K.zip
+
+# Verarbeitete/generierte Datensätze
+Data/Processed/*.rds
+
+# System
+.DS_Store
+Thumbs.db
